@@ -1,4 +1,2 @@
 
-我今天吃了一个苹果。
-
-今天吃了一个苹果。
+this is my first test of github;
